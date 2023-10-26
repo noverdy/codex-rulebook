@@ -6,7 +6,7 @@ nav_order: 1
 
 # Codex 2023
 
-CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan mahasiswa Filkom UB kepada lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
+CodEX (Code & Exploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan  dan mempersiapkan mahasiswa Filkom UB untuk lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Pada intinya, kami ingin berpartisipasi dalam meningkatkan minat mahasiswa Filko
 
 ## Last Words
 
-Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan total hadiah jutaan rupiah!
+Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan total hadiah jutaan rupiah! Selain itu, bagi kalian para _sertif hunter_ juga wajib ikut karena seluruh peserta _workshop_ dan _competition_ pasti akan dapat sertifikat!
 
 ## Any Questions?
 
