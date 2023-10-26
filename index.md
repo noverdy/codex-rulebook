@@ -46,4 +46,7 @@ Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB da
 
 ## Any Questions?
 
-You can contact me on my [Instagram](https://instagram.com/rama_noverdy).
+Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
+
+- 👤[WA]: [081237859071](https://wa.me/081237859071) (Ryo)
+- 👤[WA]: [087822036868](https://wa.me/087822036868) (Devan)
