@@ -20,7 +20,7 @@ Codex mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 
 ## Tema Kegiatan
 
-Experience the thrill of competitive programming and capture the flag at CodEX - Join now to compete, learn, and conquer!
+Exploit the Web Vulnerability: Elevate Your CTF Skills to the Next Level & Traverse the realm of competitive programming techniques and challenges!
 
 ## Ketentuan
 
