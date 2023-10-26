@@ -1,35 +1,49 @@
 ---
-title: Home
+title: Codex 2023
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Codex 2023
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Codex (CodExploit) adalah acara _crossover_ antara dua komunitas dan lembaga di Filkom UB, yaitu [BCC](https://www.instagram.com/bccfilkom) dan [POROS](https://www.instagram.com/porosfilkom/). Acara ini ditujukan untuk memperkenalkan mahasiswa Filkom UB kepada lomba bidang pemrograman (_competitive programming_) dan keamanan siber (_capture the flag_).
 
-More specifically, the created site:
+## Table of Contents
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- [Codex 2023](#codex-2023)
+  - [Table of Contents](#table-of-contents)
+  - [What Will Be Held?](#what-will-be-held)
+  - [Event Details](#event-details)
+  - [Why Should I Join?](#why-should-i-join)
+  - [Last Words](#last-words)
+  - [Any Questions?](#any-questions)
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## What Will Be Held?
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2023.
 
-To get started with creating a site, simply:
+1. _Workshop_, yaitu kegiatan yang akan mempersiapkan mahasiswa untuk mengikuti kompetisi _competitive programming_ dan _capture the flag_. _Workshop_ ini akan membahas tentang gambaran umum lomba, materi lomba, dan _hands-on_ terhadap _challenges_ dan pembahasannya.
+2. _Competition_, yaitu perlombaan di bidang _competitive programming_ dan _capture the flag_. Peserta _workshop_ dapat mengimplementasikan ilmu yang didapat dengan berkompetisi dalam perlombaan ini dan memenangkan total hadiah jutaan rupiah.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## Event Details
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+1. Detail untuk _workshop_ dapat diakses [di sini](./docs/workshop.html).
+2. Detail untuk _competition_ dapat diakses [di sini](./docs/competitions/competitions.html).
 
-----
+## Why Should I Join?
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Berkaca selama tahun 2023, kompetisi yang biasa diadakan di lingkup Filkom UB adalah kompetisi di bidang kreatif (_art_) dan olahraga (_sports_). Hal ini merupakan hal yang positif, karena dapat menjadi sarana mahasiswa mengembangkan _skill_ yang mereka miliki di luar bidang perkuliahan mereka. Sayangnya, kompetisi di luar bidang tersebut, terutama yang memang berkaitan dengan bidang perkuliahan mereka, belum pernah dilaksanakan. Oleh karena itu, kami mengadakan kegiatan _workshop_ dan _competition_ untuk memperseru dunia perlombaan dalam lingkup Filkom UB.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Pemrograman merupakan hal yang utama di bidang Ilmu Komputer. Oleh karena itu, kami ingin mengapresiasi mahasiswa-mahasiswa yang memiliki bakat di bidang pemrograman dengan mengadakan kompetisi _competitive programming_ dalam lingkup Filkom UB, sehingga mahasiswa tersebut dapat menorehkan prestasi dalam kompetisi ini. Meskipun demikian, mahasiswa yang ingin memperdalam _skill_ dalam bidang pemrograman juga dapat mengikuti kegiatan ini, karena _skill_ pemrograman yang baik akan menjadi dasar yang kuat dalam berkarir di bidang apapun nantinya. _Software engineer_, _data scientist_, _IoT engineer_. Apapun itu, akan sangat membantu jika kalian mempunyai _skill_ pemrograman yang kuat.
+
+Di samping itu, keamanan siber merupakan salah satu bidang yang bisa dibilang _underrated_ di Filkom UB. Padahal, jika kita melihat dari sisi peluang kerja, keamanan siber merupakan salah satu bidang yang memiliki peluang kerja yang sangat meyakinkan di Indonesia. Selain itu, kami juga melihat bahwa banyak mahasiswa Filkom UB yang berminat di bidang keamanan siber, tetapi bingung ingin memulai dari mana. Oleh karena itu, kami mengadakan kompetisi _capture the flag_ agar mahasiswa Filkom UB dapat mulai belajar dan bahkan berkarir di dunia keamanan siber. Selain itu, sama seperti bidang pemrograman, kami ingin memberikan apresiasi terhadap mahasiswa yang memiliki bakat di bidang keamanan siber dengan mengadakan lomba ini, agar mereka juga dapat menorehkan prestasi.
+
+Pada intinya, kami ingin berpartisipasi dalam meningkatkan minat mahasiswa Filkom UB dalam bidang pemrograman dan keamanan siber, dengan mengadakan kompetisi di dua bidang tersebut. Untuk yang baru memulai, kami akan mengadakan _workshop_ agar kalian bisa mulai belajar. _Workshop_ akan diisi oleh pemateri yang ahli di bidangnya. Oleh karena itu, apa lagi alasan lain untuk tidak mengikuti kegiatan Codex? Ayo tingkatkan skill kalian di bidang pemrograman dan keamanan siber, _because you can participate in competitions other than UI/UX and business case_, hehe.
+
+## Last Words
+
+Kami mengadakan kegiatan ini _pure_ untuk membuka wawasan mahasiswa Filkom UB dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ Codex untuk belajar mengenai hal tersebut dan juga ikut kompetisi Codex untuk memenangkan total hadiah jutaan rupiah!
+
+## Any Questions?
+
+You can contact me on my [Instagram](https://instagram.com/rama_noverdy).
