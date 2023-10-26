@@ -28,7 +28,7 @@ Ada dua kegiatan utama yang akan diadakan dalam acara Codex 2023.
 ## Event Details
 
 1. Detail untuk _workshop_ dapat diakses [di sini](./docs/workshop.html).
-2. Detail untuk _competition_ dapat diakses [di sini](./docs/competitions/competitions.html).
+2. Detail untuk _competition_ dapat diakses [di sini](./docs/competitions/).
 
 ## Why Should I Join?
 
