@@ -21,6 +21,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
     - [Kompetisi](#kompetisi)
   - [Teknis Lomba](#teknis-lomba)
     - [Sistem Penilaian](#sistem-penilaian)
+    - [Ketentuan Diskualifikasi](#ketentuan-diskualifikasi)
     - [**Penghargaan**](#penghargaan)
   - [Narahubung](#narahubung)
 
@@ -73,6 +74,23 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 4. Nilai yang diberikan untuk suatu soal tergantung dari jumlah kasus uji yang berhasil dilewati program. Jika semua kasus uji berhasil dilewati, maka peserta akan diberikan nilai penuh untuk soal tersebut.
 5. Peringkat peserta akan diurutkan berdasarkan nilai akhir yang didapatkan peserta.
 6. Jika ada 2 (dua) peserta atau lebih yang memiliki nilai akhir yang sama, peserta tersebut akan diurutkan berdasarkan total waktu pengumpulan soal yang benar ditambah dengan penalti.
+
+### Ketentuan Diskualifikasi
+
+Peserta yang terindikasi melakukan:
+1. kerja sama dengan tim dan/atau orang lain,
+2. plagiarisme terhadap pekerjaan tim dan/atau orang lain,
+3. perbuatan yang mengganggu tim lain,
+4. perbuatan kecurangan atau pelanggaran lainnya,
+5. perbuatan yang mengganggu jalannya kompetisi, atau
+6. pembuatan program yang:
+    - menyerang server web lomba,
+    - mengakses jaringan,
+    - membuka dan/atau membuat file,
+    - mengganti informasi dan/atau hak akses file,
+    - mengeksekusi program lain,
+    - membuat system call, atau
+    - menyerang sistem dalam bentuk apapun.
 
 ### **Penghargaan**
 

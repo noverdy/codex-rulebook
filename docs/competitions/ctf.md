@@ -21,6 +21,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
     - [Kompetisi](#kompetisi)
   - [Teknis Lomba](#teknis-lomba)
     - [Sistem Penilaian](#sistem-penilaian)
+    - [Ketentuan Diskualifikasi](#ketentuan-diskualifikasi)
     - [**Penghargaan**](#penghargaan)
   - [Narahubung](#narahubung)
 
@@ -79,6 +80,17 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 6. _Write-up_ sama sekali tidak mempengaruhi penentuan juara berdasarkan perolehan nilai yang ada, akan tetapi difungsikan untuk menguji kebenaran dari pengerjaan soal guna menghindari adanya tindak kecurangan berupa plagiarisme dan tindakan ilegal lainnya.
 7. Kesalahan dan ketidaksesuaian substansi dalam penjabaran langkah
 pengerjaan dapat mengakibatkan tidak diperhitungkannya nilai soal dalam penentuan pemenang lomba.
+
+### Ketentuan Diskualifikasi
+
+1. Peserta yang terindikasi melakukan kecurangan, baik bekerja sama dengan pihak lain (peserta lain, pembimbing, teman, anggota komunitas/forum,dan sebagainya) maupun memberikan jawaban ke peserta lain dalam bentuk apapun.
+2. Peserta yang tidak mengumpulkan _write-up_.
+3. Peserta yang terindikasi melakukan tindak eksploitasi dan penyerangan layanan jaringan pada soal menggunakan media apapun, dengan objektif untuk merusak dan mengganggu jalannya sistem, tetapi tidak terbatas pada:
+    - Menghapus/mengganti file _flag_.
+    - Melakukan DDOS pada service atau platform.
+    - Melakukan _bruteforce flag_ pada platform. 
+4. Peserta yang menggunakan automated scanner/tools seperti _sqlmap_, _burp scanner_, dan _dirb_.
+5. Peserta yang melakukan kerusuhan selama perlombaan.
 
 ### **Penghargaan**
 
